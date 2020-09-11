@@ -12,9 +12,6 @@
   - CSS
   - JavaScript
   
- 
-  
-  <h2 align="center">🔥 Layout:</h2>
   
   <img src="./assets/img/layout.png" alt="Main" />
   
